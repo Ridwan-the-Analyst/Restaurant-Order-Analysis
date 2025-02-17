@@ -16,5 +16,6 @@ This repository contains the analysis of a restaurant's order data using Postgre
 ```sql
 SELECT COUNT(DISTINCT order_id) AS total_orders
 FROM order_details;
+```sql
 
-** visit my portfolio website [Ridwan's Portfolio](https://www.ridwan-ibrahim.netlify.app)
+** visit my portfolio website ** [Ridwan's Portfolio](https://www.ridwan-ibrahim.netlify.app)
