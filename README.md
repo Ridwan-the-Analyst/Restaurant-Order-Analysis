@@ -7,8 +7,10 @@ SELECT COUNT(menu_item_id) FROM menu_items;
 ```
 
 --2.What are the least and most expensive items on the menu?
+```sql
 SELECT * FROM menu_items
 ORDER BY price;
+```
 
 SELECT * FROM menu_items
 ORDER BY price DESC;
